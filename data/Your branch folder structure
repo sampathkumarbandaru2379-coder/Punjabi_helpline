@@ -1,0 +1,11 @@
+Punjabi-Farmer-Voice-Helpline/
+│
+├── app.py
+│
+├── data/
+│   ├── mandi_prices.json
+│   └── schemes.json
+│
+├── requirements.txt
+│
+└── README.md
